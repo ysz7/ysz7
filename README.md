@@ -13,7 +13,7 @@
 ![AI](https://img.shields.io/badge/-AI-000000?style=flat-square)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square)
 
-> High-speed systems builder. Research-driven engineer.  
+> Backend architect and application vision designer, scaling humanity through AI, startups & creativity.
 > Creating revolutionary products across backend, web, desktop, and AI.
 
 6+ years shipping production systems.
