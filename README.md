@@ -22,11 +22,11 @@
 
 ## Current Projects
 
-- 🧩 **Nodegram** – Visual workspace for creating and connecting structured information nodes.
-- 📊 **RankHunt** – Community-driven ranking platform with voting mechanics.
-- 🛒 **crystal-shop** – Modern Laravel e-commerce starter kit.
-- 📅 **interval** – Timeline-based calendar application built with TypeScript.
-- 🎨 **crystal-ui** – Clean CSS component library inspired by shadcn philosophy (zero JS).
+- 🧩 **[Nodegram](https://github.com/ysz7/Nodegram)** – Visual workspace for creating and connecting structured information nodes.
+- 📊 **[RankHunt](https://github.com/ysz7/RankHunt)** – Community-driven ranking platform with voting mechanics.
+- 🛒 **[crystal-shop](https://github.com/ysz7/crystal-shop)** – Modern Laravel e-commerce starter kit.
+- 📅 **[interval](https://github.com/ysz7/interval)** – Timeline-based calendar application built with TypeScript.
+- 🎨 **[crystal-ui](https://github.com/ysz7/crystal-ui)** – Clean CSS component library inspired by shadcn philosophy (zero JS).
 
 ---
 
