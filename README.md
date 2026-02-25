@@ -22,7 +22,7 @@
 
 ## Current Projects
 
-- 🏗️ **Arcforge(coming soon)** – Architecture design IDE for building and visualizing backend logic.
+- 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Architecture design IDE for building and visualizing backend logic.
 - 🧩 **[Nodegram](https://github.com/ysz7/Nodegram)** – Visual workspace for creating and connecting structured information nodes.
 - 📊 **[RankHunt](https://github.com/ysz7/RankHunt)** – Community-driven ranking platform with voting mechanics.
 - 🛒 **[crystal-shop](https://github.com/ysz7/crystal-shop)** – Modern Laravel e-commerce starter kit.
