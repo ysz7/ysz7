@@ -20,7 +20,7 @@
 
 ---
 
-## Current Projects
+## Projects
 
 - 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Architecture design IDE for building and visualizing backend logic.
 - 📅 **[interval](https://github.com/ysz7/interval)** – Timeline-based calendar application built with TypeScript.
