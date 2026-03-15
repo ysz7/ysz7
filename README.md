@@ -32,7 +32,7 @@
 
 ## What I'm Doing
 
-- ⚡ Building high-performance backend systems in Go & Rust
+- ⚡ Building high-performance backend systems in Go & Node.js
 - 🏗️ Designing scalable architectures
 - 🌐 Developing modern web applications (React / TypeScript)
 - 🤖 Leveraging AI-native workflows with Cursor
