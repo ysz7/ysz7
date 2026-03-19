@@ -24,7 +24,7 @@
 - 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Architecture design IDE for building and visualizing backend logic.
 - 📅 **[interval](https://github.com/ysz7/interval)** – Timeline-based calendar application built with TypeScript.
 - 🧩 **[Nodegram](https://github.com/ysz7/Nodegram)** – Visual workspace for creating and connecting structured information nodes.
-- 🏢 **[BossBoard](https://github.com/ysz7/Bossboard)** - Business management platform for small companies.
+- 🏢 **[BossBoard](https://github.com/ysz7/Bossboard)** – Business management platform for small companies.
 - 📊 **[RankHunt](https://github.com/ysz7/RankHunt)** – Community-driven ranking platform with voting mechanics.
 - 🛒 **[crystal-shop](https://github.com/ysz7/crystal-shop)** – Modern Laravel e-commerce starter kit.
 - 🎨 **[crystal-ui](https://github.com/ysz7/crystal-ui)** – Clean CSS component library inspired by shadcn philosophy (zero JS).
