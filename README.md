@@ -20,7 +20,7 @@
 ---
 
 ## Projects
-
+- 🧠 **[LIMA](https://github.com/ysz7/LIMA)** – Long-term Intelligence Memory for Agents.
 - 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Architecture design IDE for building and visualizing backend logic.
 - 📅 **[interval](https://github.com/ysz7/interval)** – Timeline-based calendar application built with TypeScript.
 - 🧩 **[Nodegram](https://github.com/ysz7/Nodegram)** – Visual workspace for creating and connecting structured information nodes.
