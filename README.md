@@ -15,17 +15,17 @@
 
 30+ web products delivered for clients across e-commerce,
 SaaS and service industries. Currently building AI-native
-backend systems with Go, Node.js and Python.
+backend systems.
 
 ---
 
 ## Projects
 
 - 🧠 **[LIMA](https://github.com/ysz7/LIMA)** – Long-term memory system for AI agents. `Go · Claude API`
-- 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Architecture design IDE for visualizing backend logic. `JavaScript`
+- 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Architecture design IDE for visualizing backend logic. `TypeScript · NodeJS`
 - 🏢 **[BossBoard](https://github.com/ysz7/Bossboard)** – Business management platform for small companies. `NestJS · Prisma · PostgreSQL`
 - 🧩 **[Nodegram](https://github.com/ysz7/Nodegram)** – Visual workspace for connecting structured information nodes. `JavaScript`
-- 📅 **[interval](https://github.com/ysz7/interval)** – Timeline-based calendar application. `TypeScript`
+- 📅 **[interval](https://github.com/ysz7/interval)** – Timeline-based calendar application. `TypeScript · React`
 - 📊 **[RankHunt](https://github.com/ysz7/RankHunt)** – Community-driven ranking platform with voting mechanics. `Laravel`
 - 🛒 **[crystal-shop](https://github.com/ysz7/crystal-shop)** – Modern Laravel e-commerce starter kit. `Laravel · PHP`
 - 🎨 **[crystal-ui](https://github.com/ysz7/crystal-ui)** – CSS component library inspired by shadcn (zero JS). `CSS`
@@ -35,6 +35,6 @@ backend systems with Go, Node.js and Python.
 ## What I'm Building
 
 - 🤖 AI agent infrastructure — memory, tools, orchestration
-- 🏗️ Scalable backend systems with Go and Node.js
+- 🏗️ Scalable backend systems
 - 🌐 Modern web applications with React and TypeScript
 - 🚀 Open source tools for developers
