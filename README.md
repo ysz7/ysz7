@@ -22,7 +22,7 @@ backend systems.
 ## Projects
 
 - 🧠 **[LIMA](https://github.com/ysz7/LIMA)** – Long-term memory system for AI agents. `Protocol`
-- 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Architecture design IDE for visualizing backend logic. `TypeScript · NodeJS`
+- 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Open Source Architecture design IDE for visualizing backend logic. `TypeScript · NodeJS`
 - 🏢 **[BossBoard](https://github.com/ysz7/Bossboard)** – Business management platform for small companies. `NestJS · Prisma · PostgreSQL`
 - 🧩 **[Nodegram](https://github.com/ysz7/Nodegram)** – Visual workspace for connecting structured information nodes. `JavaScript`
 - 📅 **[interval](https://github.com/ysz7/interval)** – Timeline-based calendar application. `TypeScript · React`
