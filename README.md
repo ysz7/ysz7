@@ -20,7 +20,7 @@ backend systems.
 ---
 
 ## Projects
-- 🎆 **[Parallax](https://github.com/ysz7/Parallax)** — AI research agent that monitors 8 sources, scores signals by impact, and delivers daily intelligence briefings to Telegram.`AI Agent · Python`
+- 🎆 **[Parallax](https://github.com/ysz7/Parallax)** — AI research agent that monitors 8 sources, scores signals by impact, and delivers daily briefings.`AI Agent · Python`
 - 🕶️ **[Agent-Smith](https://github.com/ysz7/agent-smith)** – Open Source AI agent that lives on your machine. Skills. Memory. Tools. All local. All yours. `AI Agent · NodeJS`
 - 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Open Source Architecture design IDE for visualizing backend logic. `TypeScript · NodeJS`
 - 🧩 **[Nodegram](https://github.com/ysz7/Nodegram)** – Visual workspace for connecting structured information nodes. `JavaScript`
