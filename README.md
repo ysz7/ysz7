@@ -22,7 +22,6 @@ backend systems.
 ## Projects
 - ♛ **[Majestic Agent](https://github.com/ysz7/majestic-agent)** — AI agent core designed to build Vertical AI Agents. `AI Agent · Python · Open-Source`
 - 🪄 **[Orches](https://github.com/ysz7/orches)** — AI agent orchestration platform. Build teams of AI agents that collaborate, delegate tasks, use tools, and produce results — all from a visual interface. `AI Agent · Python · Open-Source`
-- 🎆 **[Parallax](https://github.com/ysz7/Parallax)** — Personal AI research agent. Collects signals from 8 web sources, scores them with LLM, combines news + market data into actionable briefings.`AI Agent · Python · Open-Source`
 - 👾 **[FastAuth](https://github.com/ysz7/FastAuth)** – Production-ready authentication service built with FastAPI. `Python · Service · Open-Source`
 - 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Open Source Architecture design IDE for visualizing backend logic. `TypeScript · NodeJS`
 - 🧩 **[Nodegram](https://github.com/ysz7/Nodegram)** – Visual workspace for connecting structured information nodes. `JavaScript`
