@@ -29,7 +29,6 @@ backend systems.
 - 📅 **[interval](https://github.com/ysz7/interval)** – Timeline-based calendar application. `TypeScript · React`
 - 📊 **[RankHunt](https://github.com/ysz7/RankHunt)** – Community-driven ranking platform with voting mechanics. `Laravel`
 - 🛒 **[crystal-shop](https://github.com/ysz7/crystal-shop)** – Modern Laravel e-commerce starter kit. `Laravel · PHP`
-- 🎨 **[crystal-ui](https://github.com/ysz7/crystal-ui)** – CSS component library inspired by shadcn (zero JS). `CSS`
 
 ---
 
