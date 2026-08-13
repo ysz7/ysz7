@@ -24,7 +24,7 @@ backend systems.
 
 ---
 
-- 🍀 **[Genesis Agent](https://github.com/ysz7/genesis-agent)** —A lightweight foundation for shipping specialized AI agents fast. `AI Agent · Python · Open-Source`
+- 🍀 **[Genesis Agent](https://github.com/ysz7/genesis-agent)** — A lightweight foundation for shipping specialized AI agents fast. `AI Agent · Python · Open-Source`
 - ♛ **[Majestic Agent](https://github.com/ysz7/majestic-agent)** — AI agent core designed to build Vertical AI Agents. `AI Agent · Python · Open-Source`
 - 🪄 **[Orches](https://github.com/ysz7/orches)** — AI agent orchestration platform. Build teams of AI agents that collaborate, delegate tasks, use tools, and produce results — all from a visual interface. `AI Agent · Python · Open-Source`
 
