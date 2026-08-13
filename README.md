@@ -20,6 +20,7 @@ backend systems.
 ## Projects
 
 - 📐 **[AI Engineer Blueprints and Skills](https://github.com/ysz7/ai-blueprints-skills)** — Build AI systems from blueprints, not from scratch. `Blueprints · Skills · DevTools`
+- 🗺️ **[Alethic](https://github.com/ysz7/Alethic)** — Spec-driven development IDE. Scan a repo into features, plan against them, catch drift without an LLM. `IDE · Spec-driven`
 
 ---
 
