@@ -19,6 +19,9 @@ backend systems.
 
 ## Projects
 
+- 📐 **[AI Engineer Blueprints and Skills](https://github.com/ysz7/ai-blueprints-skills)** — Build AI systems from blueprints, not from scratch. `Blueprints · Skills · DevTools`
+
+---
 
 - 🍀 **[Genesis Agent](https://github.com/ysz7/genesis-agent)** —A lightweight foundation for shipping specialized AI agents fast. `AI Agent · Python · Open-Source`
 - ♛ **[Majestic Agent](https://github.com/ysz7/majestic-agent)** — AI agent core designed to build Vertical AI Agents. `AI Agent · Python · Open-Source`
