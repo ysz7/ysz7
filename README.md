@@ -19,7 +19,7 @@ backend systems.
 
 ## Projects
 
-- 🗺️📐 **[SpecRun](https://github.com/ysz7/specrun)** — Coming soon. `Blueprints · Skills · DevTools · Spec-driven`
+- 📐 **[SpecRun](https://github.com/ysz7/specrun)** — Coming soon. `Blueprints · Skills · DevTools · Spec-driven`
 - 🍀 **[Genesis Agent](https://github.com/ysz7/genesis-agent)** — A lightweight foundation for shipping specialized AI agents fast. `AI Agent · Python · Open-Source`
 
 ---
