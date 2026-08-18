@@ -19,7 +19,7 @@ backend systems.
 
 ## Projects
 
-- 📐 **[Awesome AI Blueprints](https://github.com/ysz7/awesome-ai-blueprints)** — Architectural blueprints for AI coding agents. `Python · PyPI · Claude Plugins`
+- 🚀 **[Awesome AI Blueprints](https://github.com/ysz7/awesome-ai-blueprints)** — Architectural blueprints for AI coding agents. `Python · PyPI · Claude Plugins`
 - 🍀 **[Genesis Agent](https://github.com/ysz7/genesis-agent)** — A lightweight foundation for shipping specialized AI agents fast. `AI Agent · Python · Open-Source`
 
 ---
