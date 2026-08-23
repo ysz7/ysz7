@@ -29,11 +29,10 @@ backend systems.
 - 👾 **[FastAuth](https://github.com/ysz7/FastAuth)** – Production-ready authentication service built with FastAPI. `Python · Service · Open-Source`
 - 🏗️ **[Arcforge](https://github.com/ysz7/Arcforge)** – Open Source Architecture design IDE for visualizing backend logic. `TypeScript · NodeJS`
 
+---
 
 - 🧩 **[Nodegram](https://github.com/ysz7/Nodegram)** – Visual workspace for connecting structured information nodes. `JavaScript`
 - 📅 **[interval](https://github.com/ysz7/interval)** – Timeline-based calendar application. `TypeScript · React`
 - 📊 **[RankHunt](https://github.com/ysz7/RankHunt)** – Community-driven ranking platform with voting mechanics. `Laravel`
 - 🛒 **[crystal-shop](https://github.com/ysz7/crystal-shop)** – Modern Laravel e-commerce starter kit. `Laravel · PHP`
-
----
 
