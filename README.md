@@ -38,9 +38,3 @@ backend systems.
 
 ---
 
-## What I'm Building
-
-- AI agent infrastructure — memory, tools, orchestration
-- Scalable backend systems
-- Modern web applications
-- Open source tools for developers
