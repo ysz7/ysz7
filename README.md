@@ -19,8 +19,9 @@ backend systems.
 
 ## Projects
 
-- 🚀 **[Awesome AI Blueprints](https://github.com/ysz7/awesome-ai-blueprints)** — Architectural blueprints for AI coding agents. `Python · PyPI · Claude Plugins`
 - 🍀 **[Genesis Agent](https://github.com/ysz7/genesis-agent)** — A lightweight foundation for shipping specialized AI agents fast. `AI Agent · Python · Open-Source`
+- 🍀 **[Multi-Agent RAG Support Bot](https://github.com/ysz7/Multi-Agent-RAG-Support-Bot)** — A self-hostable, domain-agnostic support agent: point it at your own documents, and it answers questions, routes complex cases to specialist sub-agents, and asks for human approval before taking any risky action. `AI Agent · RAG · Python · Open-Source`
+- 🚀 **[AI Coding Agent Blueprints](https://github.com/ysz7/ai-coding-agent-blueprint)** — Architectural blueprints for AI coding agents. `Python · PyPI · Claude Plugins`
 
 ---
 
