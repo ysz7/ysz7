@@ -19,7 +19,7 @@ backend systems.
 
 ## Projects
 
-- 🔥 **[Prometheus](https://aethraintelligence.com)** — A team of AI employees that works on your computer. Prometheus gives you a researcher, an analyst, a writer, an organizer and an operator — and an AI manager who runs them. Tell the manager what you need in one sentence. `AI Employee · Python · Open-Source`
+- 🔥 **[Prometheus](https://github.com/AethraIntelligence/Prometheus)** — A team of AI employees that works on your computer. Prometheus gives you a researcher, an analyst, a writer, an organizer and an operator — and an AI manager who runs them. Tell the manager what you need in one sentence. `AI Employee · Python · Open-Source`
 - 🍀 **[Genesis Agent](https://github.com/ysz7/genesis-agent)** — A lightweight foundation for shipping specialized AI agents fast. `AI Agent · Python · Open-Source`
 - 🗨️​ **[Multi-Agent RAG Support Bot](https://github.com/ysz7/Multi-Agent-RAG-Support-Bot)** — A self-hostable, domain-agnostic support agent: point it at your own documents, and it answers questions, routes complex cases to specialist sub-agents, and asks for human approval before taking any risky action. `AI Agent · RAG · Python · Open-Source`
 - </>  **[Framestack AI Builder](https://github.com/ysz7/framestack-ai-builder)** — The open source AI builder for AI systems. `IDE · Python · Open-Source`
